@@ -1,6 +1,6 @@
 :arrow_right: # Um pouco sobre mim
 
-### 👋 Oi, Meu nome é Marinaldo Silva e tenho 24 anos, e estou iniciando hoje (14/01/2022) minha carreira em tecnológia.  
+### 👋 Oi, Meu nome é Marinaldo Silva e tenho 24 anos, e estou iniciando minha carreira em tecnológia.  
 ### 👀 Gosto de ler Livros e Mangás, iniciando no mundo Fitness, jogar bola é um paixão :running: e estou me apaixonando por codar :heartpulse:
 ### 🌱 Fiz alguns cursos livres e agora estou iniciando minha rotina de estudos em Ciências da computação.
 ### :dog: Amor incondicional por animais :heart:
